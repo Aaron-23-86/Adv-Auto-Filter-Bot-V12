@@ -50,10 +50,9 @@ async def start(bot, update):
         InlineKeyboardButton('🔥Group 🔥', url='https://t.me/Mallu_Cinema_Talk'),
         InlineKeyboardButton('⚡Channel⚡ 🧾', url ='https://t.me/Mallu_CINEMASSS')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/Termin_a_t_o_r')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
-    ]]
+       
+   
+
     
     reply_markup = InlineKeyboardMarkup(buttons)
     
