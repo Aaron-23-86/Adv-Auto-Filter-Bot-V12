@@ -45,7 +45,7 @@ class Translation(object):
 
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Jon Snow</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/Termin_a_t_o_r">Aaron Shaji</a></i></b>
 
